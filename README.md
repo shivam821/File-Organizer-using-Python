@@ -1,2 +1,2 @@
 # File-Organizer-using-Python
-File Organizer using Python
+This script takes a directory path as input from the user. It then iterates through all the files in the specified directory. For each file, it extracts the file extension and checks if a directory with that extension already exists. If it does, the file is moved to that directory. If not, a new directory is created with the extension name, and the file is moved into it.
